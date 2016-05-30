@@ -2,6 +2,7 @@
 
 Small application shows up basic Angular2 
 
-To launch application install npm packages first and run "npm start".
+MySQL database required. To get all details forward the link please
+https://github.com/ITsvetkoFF/mysql-employee-loopback
 
-Backend local server required.
+To launch application install npm packages first and run "npm start".
